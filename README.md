@@ -5,7 +5,7 @@
 Dobby explaining to Harry Potter the abilities of the Room of Requirement
 
 ## Motivation
-Programs are complex. The mind is limited. Mighty tools solving great problems and simple in use are our remedies.
+Programs are complex. The mind is limited. Mighty tools of useful abstraction and simple in use are our remedies.
 
 As it happens in programming, sometimes we (re-)implement certain classes or functions which aren't in language's standart libraries but of great help for programmers. This suboptimal hobby by all means can be optimised. The aim of this repo to be an open-soruce collection of such inventions (ideally it would be similar to c++ boost and google's guava, but currently I can't provision any means of distribution).
 
