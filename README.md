@@ -11,5 +11,5 @@ As it happens in programming, sometimes we (re-)implement certain classes or fun
 
 
 ## Content
-1. Sniffing Input Stream (kotlin)
-2. Permutable Array (java)
+1. Sniffing Input Stream `.kt`
+2. Permutable Array `.java`
