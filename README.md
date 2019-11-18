@@ -11,5 +11,5 @@ As it happens in programming, sometimes we (re-)implement certain classes or fun
 
 
 ## Content
-1. Sniffing Input Stream `.kt`
-2. Permutable Array `.java`
+1. [Sniffing Input Stream](https://github.com/voytovichs/room-of-requirement/blob/master/doc/io/SniffingStreams.md) `.kt`
+2. [Permutable Array](https://github.com/voytovichs/room-of-requirement/blob/master/doc/datastructures/PermutableArray.md) `.java`
