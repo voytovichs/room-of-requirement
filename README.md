@@ -1,8 +1,8 @@
 # Room of Requirement
 
->It is a room that a person can only enter when they have real need of it. Sometimes it is there, and sometimes it is not, but when it appears, it is always equipped for the seeker's needs
-
-Dobby explaining to Harry Potter the abilities of the Room of Requirement
+>It is a room that a person can only enter when they have real need of it. Sometimes it is there, and sometimes it is not, but when it appears, it is always equipped for the seeker's needs.
+>
+>*Dobby explaining to Harry Potter the abilities of the Room of Requirement*
 
 ## Motivation
 Programs are complex. Mind is limited. Mighty tools of useful abstraction and simple in use are our remedies.
